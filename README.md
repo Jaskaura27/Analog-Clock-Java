@@ -6,10 +6,16 @@
 
 ## Running Program
 
-OS X & Linux
+OS X & Linux terminal:
 
 ```sh
 javac *.java
 java ClockRunner
 ```
 
+Windows cmd:
+
+```sh
+javac Circle.java ClockComponent,java ClockRunner.java CurrentTime.java Line.java Point.java
+java ClockRunner
+```
